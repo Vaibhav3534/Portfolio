@@ -23,7 +23,7 @@ export const projectsData = [
           ],
         tags: ['React', 'CSS', 'Javascript', 'Mongodb'],
         code: 'https://github.com/Vaibhav3534/DermStore_Clone',
-        demo: 'https://dermstore-01.netlify.app/',
+        demo: 'https://dermstore-clone-01.vercel.app/',
         image: Dermstore
     },
     {
